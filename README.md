@@ -133,6 +133,7 @@
 ## CLI Tools
 
 - [Collection of Basic CLI Tools](https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6)
+- [17 Essential CLI Tools to Boost Developer Productivity] (https://dev.to/0xkoji/17-essential-cli-tools-to-boost-developer-productivity-2o9e)
 
 ## Cheat sheets
 - [Angular Cheat Sheet](https://angular.io/guide/cheatsheet)
